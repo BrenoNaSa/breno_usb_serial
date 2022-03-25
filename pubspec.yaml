@@ -5,7 +5,7 @@ homepage: https://github.com/BrenoNaSa/UsbSerial
 
 environment:
   sdk: ">=2.15.1 <4.0.0"
-  flutter: ^1.20.0
+  flutter: ">=1.20.0"
 
 dependencies:
   flutter:
